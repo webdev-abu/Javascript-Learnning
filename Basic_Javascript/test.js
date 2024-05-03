@@ -1,1 +1,1 @@
-console.log("Abu Tahir")
+console.log("Abu Tahir");
